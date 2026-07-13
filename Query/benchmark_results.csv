@@ -1,0 +1,4 @@
+query,before_sec,after_sec,speedup_x
+Q1 Country Filter,3.1594,4.0287,0.8
+Q2 Monthly Revenue,0.3592,0.44,0.8
+Q3 Top Customers,1.2496,20.5145,0.1
