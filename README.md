@@ -1,5 +1,4 @@
-# Database-Query-Optimization
-# PostgreSQL Query Optimization
+#  Database Query Optimization - PostgreSQL
 
 A hands-on project demonstrating how to identify slow SQL queries and fix them using
 proven optimization techniques in PostgreSQL — indexing, query rewriting, and
